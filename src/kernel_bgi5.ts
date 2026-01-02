@@ -1,0 +1,1 @@
+const service_bgi5 = <T>(args: T): T => { return args; };
