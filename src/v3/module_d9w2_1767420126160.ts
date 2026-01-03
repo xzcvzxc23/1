@@ -1,0 +1,1 @@
+const util_d9w2 = (d: any) => d;
